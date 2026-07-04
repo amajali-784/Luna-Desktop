@@ -1,0 +1,8 @@
+{
+  "name": "Luna Desktop",
+  "description": "Luna is a privacy-first, local-inspired AI desktop companion that combines conversation, smart automation, personal memory tracking, and desktop simulation integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
